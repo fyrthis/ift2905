@@ -1,10 +1,12 @@
-package com.example.tanguinoche.discover.mainPackage;
+package ift2905.api;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by tanguinoche on 12/04/15.
+ *
+ * sofhsdfĵdhfijdhgipdgid
  */
 public class Album {
     private int id;
