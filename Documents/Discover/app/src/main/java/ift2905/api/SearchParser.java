@@ -1,4 +1,4 @@
-import com.example.tanguinoche.discover.mainPackage.Artist;
+package ift2905.api;
 
 import org.json.JSONArray;
 import org.json.JSONException;

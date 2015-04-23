@@ -1,4 +1,4 @@
-package com.example.tanguinoche.discover.org.json;
+package ift2905.org.json;
 
 import java.io.IOException;
 import java.io.Writer;

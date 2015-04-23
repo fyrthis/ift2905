@@ -1,4 +1,4 @@
-package com.example.tanguinoche.discover.org.json;
+package ift2905.org.json;
 
 /**
  * The JSONException is thrown by the JSON.org classes when things are amiss.

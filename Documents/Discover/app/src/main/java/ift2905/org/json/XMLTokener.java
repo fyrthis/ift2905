@@ -1,4 +1,4 @@
-package com.example.tanguinoche.discover.org.json;
+package ift2905.org.json;
 
 /*
 Copyright (c) 2002 JSON.org
@@ -24,7 +24,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-import com.example.tanguinoche.discover.org.json.XML;
 
 /**
  * The XMLTokener extends the JSONTokener to provide additional methods

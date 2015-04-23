@@ -1,4 +1,4 @@
-package com.example.tanguinoche.discover.org.json;
+package ift2905.org.json;
 
 /*
 Copyright (c) 2002 JSON.org

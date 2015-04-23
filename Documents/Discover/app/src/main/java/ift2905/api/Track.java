@@ -1,4 +1,4 @@
-package com.example.tanguinoche.discover.mainPackage;
+package ift2905.api;
 
 import android.media.MediaPlayer;
 
