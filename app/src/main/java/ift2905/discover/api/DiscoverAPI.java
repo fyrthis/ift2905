@@ -2,7 +2,7 @@ package ift2905.discover.api;
 
 /**
  * Created by Julien on 2015-04-21.
- * jcdsjnk,xmzcasmvlkdfs
+ * jcdsjnk,xmzcasmvlkdfskmkmol,m
  */
 
 import android.graphics.drawable.Drawable;
